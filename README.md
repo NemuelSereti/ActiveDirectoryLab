@@ -13,7 +13,7 @@ Creating an Active Directory Home Lab Environment Using Oracle Virtual Box
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (22H2)
+- <b>Windows 10</b> (21H1)
 
 <h2>Project walk-through:</h2>
 
